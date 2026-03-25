@@ -1,0 +1,73 @@
+# Build outputs
+/bin/
+/obj/
+/Output/
+/packages/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Visual Studio cache files
+.vs/
+*.tmp
+*.tmp_proj
+*.log
+*.tlb
+*.tlh
+*.txf
+*.xml.tmp
+*.pidb
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.binlog
+
+# Rider (JetBrains)
+.idea/
+*.sln.iml
+
+# Test results
+/TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.coveragexlm
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Publish
+*.pubxml.user
+/publish/
+
+# Backup files
+*~
+*.bak
+*.orig
+
+# Windows
+Thumbs.db
+desktop.ini
+ehthumbs.db
